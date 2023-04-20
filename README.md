@@ -23,20 +23,20 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United Kingdom.
    - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
    - 🎮 Exploring Technical Content Writing.
-   - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+   - :zap: In my free time, I solve Algorithms on HackerRank and I play PUBGM as a semi-pro.
    - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-osagie99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osagie-abel-ebhodaghe-8623b5206)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
  
- Backend: 
-
----
-
-### :hammer_and_wrench: I am also a gamer i play pubgm (semi - professional) :
-
-   <img src="https://simpleicons.org/icons/playstation.svg" title="ps" alt="ps" width="40" height="40"/>&nbsp;
+- Frontend: 
+- Backend:
+- Database:
+- Tools:
+- Versioning:
+- Collaboration:
+- API Testing
 
 ---
 
