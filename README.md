@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me : 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United Kingdom.
    - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-   - 🎮 Exploring Technical Content Writing.
+   - 🎮 At University studying for a Masters Degree in Data Science.
    - :zap: In my free time, I solve Algorithms on HackerRank and I play PUBGM as a semi-pro.
    - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-osagie99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osagie-abel-ebhodaghe-8623b5206)
 
