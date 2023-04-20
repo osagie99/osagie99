@@ -31,7 +31,8 @@
 ### :hammer_and_wrench: Languages and Tools :
  
 - Frontend: <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="figma" alt="figma" width="20" height="20" style="max-width: 100;"/>&nbsp; 
-- Backend: hello
+- Backend: <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="java" alt="java" width="20" height="20" style="max-width: 100;"/>&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="java" alt="java" width="20" height="20" style="max-width: 100;"/>&nbsp; 
 - Database:
 - Tools:
 - Versioning:
