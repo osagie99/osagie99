@@ -52,7 +52,7 @@
 
 ### :hammer_and_wrench: In my free time i play PUBGM Professionally and A few other games :
 
-<img src="[https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg](https://simpleicons.org/icons/playstation.svg)" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+   <img src="https://simpleicons.org/icons/playstation.svg" title="ps" alt="ps" width="40" height="40"/>&nbsp;
 
 ---
 
