@@ -45,15 +45,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="20" height="20" style="max-width: 100;"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="mongo" alt="mongo" width="20" height="20" style="max-width: 100;"/>&nbsp; 
   
-- Tools: <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="25" height="25" style="max-width: 100;"/>&nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="github" alt="github" width="20" height="20" style="max-width: 100;"/>&nbsp; 
+- Tools: <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="docker" alt="docker" width="25" height="25" style="max-width: 100;"/>&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" title="k8" alt="k8" width="20" height="20" style="max-width: 100;"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="20" height="20" style="max-width: 100;"/>&nbsp; 
   
 - Versioning: <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="25" height="25" style="max-width: 100;"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="github" alt="github" width="20" height="20" style="max-width: 100;"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="20" height="20" style="max-width: 100;"/>&nbsp;
-- Collaboration:
-- API Testing
+- Collaboration: <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" title="slack" alt="slack" width="25" height="25" style="max-width: 100;"/>&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg" title="trello" alt="trello" width="20" height="20" style="max-width: 100;"/>&nbsp; 
+  
+- API Testing <img src="https://camo.githubusercontent.com/93b32389bf74600…3746d616e2f676574706f73746d616e2d69636f6e2e737667" title="postman" alt="postman" width="20" height="20" style="max-width: 100;"/>&nbsp; 
 
 ---
 
