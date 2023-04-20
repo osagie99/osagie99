@@ -55,7 +55,7 @@
 - Collaboration: <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" title="slack" alt="slack" width="25" height="25" style="max-width: 100;"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg" title="trello" alt="trello" width="20" height="20" style="max-width: 100;"/>&nbsp; 
   
-- API Testing <img src="https://camo.githubusercontent.com/93b32389bf74600…3746d616e2f676574706f73746d616e2d69636f6e2e737667" title="postman" alt="postman" width="20" height="20" style="max-width: 100;"/>&nbsp; 
+- API Testing <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="postman" alt="postman" width="20" height="20" style="max-width: 100;"/>&nbsp; 
 
 ---
 
