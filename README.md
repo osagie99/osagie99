@@ -30,8 +30,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
  
-- Frontend: 
-- Backend:
+- Frontend: Hello
+- Backend: hello
 - Database:
 - Tools:
 - Versioning:
