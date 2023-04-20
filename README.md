@@ -65,6 +65,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osagie99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<div> style-"max-width: 100;"> [![trophy](https://github-profile-trophy.vercel.app/?username=osagie99)](https://github.com/ryo-ma/github-profile-trophy) </div>
+<div> 
+  style-"max-width: 100;"> [![trophy](https://github-profile-trophy.vercel.app/?username=osagie99)](https://github.com/ryo-ma/github-profile-trophy) </div>
 <br>
 
