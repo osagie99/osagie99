@@ -62,8 +62,8 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osagie99&theme=dark&background=000000)](https://git.io/streak-stats)
-<br style="padding: 5px, 5px;">
+<br style="padding: 50px, 0;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osagie99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br style="padding: 5px, 5px;">
+<br style="padding: 5px, 0;">
 [![trophy](https://github-profile-trophy.vercel.app/?username=osagie99&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
