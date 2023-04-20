@@ -64,4 +64,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osagie99&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osagie99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=osagie99)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/324efbdaf47dc04b6c3143d363c411a8362d3e6d3dc0f9ff978e05aea3164eba/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e696468616c4e616666617469" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=osagie99" style="max-width: 100%;"></a>
